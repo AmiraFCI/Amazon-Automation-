@@ -1,0 +1,52 @@
+{
+  "Login": [
+    {
+      "phone": "01015606169",
+      "password": "Amira@1997*"
+    },
+    {
+      "phone": "01015606169",
+      "password": "Pass@456"
+    }
+  ],
+
+  "SignUp": [
+    {
+      "name": "Amira Mahmoud",
+      "phone": "1026708756",
+      "password": "SignUp@123",
+      "conPassword":"SignUp@123",
+      "OTP": "12345"
+    },
+    {
+      "name": "Test User",
+      "phone": "1026708756",
+      "password": "SignUp@456",
+      "conPassword":"SignUp@123",
+      "OTP": "12345"
+    },
+    {
+      "name": "Test User",
+      "phone": "1026708756",
+      "password": "h78",
+      "conPassword":"h78",
+      "OTP": "12345"
+    }
+
+  ],
+
+  "ForgotPassword": [
+    {
+      "phone": "01015606169",
+      "otp": "123456",
+      "newPassword": "SignUp@123",
+      "conPassword":"SignUp@123"
+    },
+    {
+      "phone": "01015606169",
+      "otp": "654321",
+      "newPassword": "NewPass@456",
+      "conPassword":"SignUp@123"
+    }
+  ]
+}
